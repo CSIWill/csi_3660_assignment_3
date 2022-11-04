@@ -1,0 +1,24 @@
+apple
+blueberry
+cherry
+dragonfruit
+fig
+Added users in /home
+total 4
+drwx------. 2 apple       apple         76 Nov  4 23:39 apple
+drwx------. 2 blueberry   blueberry     76 Nov  4 23:39 blueberry
+drwx------. 2 cherry      cherry        76 Nov  4 23:39 cherry
+drwx------. 2 dragonfruit dragonfruit   76 Nov  4 23:39 dragonfruit
+drwx------. 2 fig         fig           76 Nov  4 23:39 fig
+drwx------. 9 willengtech willengtech 4096 Nov  4 23:39 willengtech
+Last few lines of /etc/passwd
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+chrony:x:998:996::/var/lib/chrony:/sbin/nologin
+willengtech:x:1000:1001::/home/willengtech:/bin/bash
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin
+apple:x:1001:1002::/home/apple:/bin/bash
+blueberry:x:1002:1003::/home/blueberry:/bin/bash
+cherry:x:1003:1004::/home/cherry:/bin/bash
+dragonfruit:x:1004:1005::/home/dragonfruit:/bin/bash
+fig:x:1005:1006::/home/fig:/bin/bash

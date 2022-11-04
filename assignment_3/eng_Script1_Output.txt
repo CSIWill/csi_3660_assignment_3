@@ -1,0 +1,16 @@
+Hello Will, the contents of my home directory are: 
+a1_script.sh
+class_dir_struct.sh
+corporate_directory
+eng_Script1_Output.txt
+eng_Script1.sh
+eng_Script2.sh
+eng_Script3.sh
+eng_Script4.sh
+login.txt
+micro
+oakland
+office_script.sh
+parks_and_rec
+recycle_bin
+test_file
